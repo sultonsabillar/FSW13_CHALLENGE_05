@@ -11,7 +11,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [NPM](https://www.npmjs.co
 How to start:
 
 ```sh
-git clone
+git clone https://github.com/sultonsabillar/FSW13_CHALLENGE_05.git
 npm install
 npm run start
 ```
