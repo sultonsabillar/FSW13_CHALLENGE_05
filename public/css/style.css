@@ -253,7 +253,8 @@ hr {
 
 
 .card {
-  background-color: #080A0B;
+  background-color: black;
+  font-size: 12px;
 }
 
 .card a {
@@ -459,7 +460,7 @@ hr {
 
   .card a {
     margin-left: 20;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
   }
 
